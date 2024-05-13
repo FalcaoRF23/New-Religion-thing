@@ -1,0 +1,7 @@
+[
+{
+        "name": "ForestGod",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith], [+1 Hapiness] from every [Forest]","[+1 Faith], [+1 Hapiness] from every [Jungle]","[-1 Faith] from every [Lumber mill]"]
+    },
+]
